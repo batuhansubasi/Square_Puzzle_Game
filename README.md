@@ -7,7 +7,7 @@ puzzle game, using windows form
 - live score
 - best score information
 - using image md5, not index
-
+- dynamic screen style
 
 ## Flow and ScreenShots
 ![1](https://user-images.githubusercontent.com/30631029/60945555-88a8e200-a2f4-11e9-9c4a-3c5075b25b1e.png)
