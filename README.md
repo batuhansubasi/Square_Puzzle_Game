@@ -2,7 +2,6 @@
 
 puzzle game, using windows form
 
-
 ## Features
 - live score
 - best score information
