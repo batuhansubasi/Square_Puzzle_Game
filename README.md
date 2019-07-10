@@ -12,7 +12,7 @@ puzzle game, using windows form
 ## Flow and ScreenShots
 ![1](https://user-images.githubusercontent.com/30631029/60945555-88a8e200-a2f4-11e9-9c4a-3c5075b25b1e.png)
 
-**Random pieces of selected picture**
+**Random Pieces of Selected Picture**
 ****
 ![2](https://user-images.githubusercontent.com/30631029/60945556-89417880-a2f4-11e9-8c25-fd41159f8219.png)
 
