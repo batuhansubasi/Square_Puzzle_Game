@@ -206,7 +206,7 @@ namespace WindowsFormsApplication2
                 }
             }
 
-            if (sayac5 == 3)
+            if (sayac5 == 1)
             {
                 MessageBox.Show(sayac5.ToString() + " parca dogru yerdedir, artik karistirma yapamazsiniz.");
                 karistir.Visible = false;
